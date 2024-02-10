@@ -2,7 +2,7 @@
 
 Model Used: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
 
-Libraries Used: 
+## Libraries Used: 
 1. CTransformers
 2. Langchain
 
