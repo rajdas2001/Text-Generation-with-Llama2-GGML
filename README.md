@@ -11,8 +11,8 @@ Model Used: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
 
 
 ## Dependencies
-Python==3.9.13
-ctransformers==0.2.27
-langchain==0.1.6
-streamlit==1.31.0
+1. Python==3.9.13
+2. ctransformers==0.2.27
+3. langchain==0.1.6
+
 
